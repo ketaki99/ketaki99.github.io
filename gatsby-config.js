@@ -5,9 +5,9 @@ module.exports = {
     title: 'Ketaki Gokhale',
     description:
       'Ketaki Gokhale is a software engineer with interests in Machine Learning and Software Development in Python,',
-    siteUrl: 'https://brittanychiang.com', // No trailing slash allowed!
+    siteUrl: 'https://ketaki99.github.io', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
-    twitterUsername: '@bchiang7',
+    twitterUsername: '@ketakig99',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -26,7 +26,7 @@ module.exports = {
         background_color: config.colors.darkNavy,
         theme_color: config.colors.navy,
         display: 'minimal-ui',
-        icon: 'src/images/logo.png',
+        icon: 'src/images/favicon-128x128.png',
       },
     },
     `gatsby-plugin-offline`,

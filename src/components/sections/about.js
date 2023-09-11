@@ -144,8 +144,8 @@ const About = () => {
 
             <p>
               Today, I am working at Pune Institute of Computer Technology as a Research Assistant
-              on a Sign Language Detection Project. I will be pursuing a Master of Computer Science
-              at{' '}
+              on a Sign Language Recognition Project. I will be pursuing a Master of Computer
+              Science at{' '}
               <a href="https://grainger.illinois.edu/"> University of Illinois Urbana-Champaign </a>{' '}
               starting Spring 2024.
             </p>
