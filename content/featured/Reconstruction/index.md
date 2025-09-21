@@ -1,7 +1,7 @@
 ---
 date: '1'
 title: '3D Reconstruction from 2D Images'
-cover: './3D_reconstruction.png'
+cover: './halcyon.png'
 tech:
   - PyTorch
   - AngularJS
