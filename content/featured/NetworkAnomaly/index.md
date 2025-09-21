@@ -1,7 +1,7 @@
 ---
 date: '3'
 title: 'Network Anomaly Detection'
-cover: './network_anomaly.png'
+cover: './course-card.png'
 github: 'https://github.com/ketaki99/Network-Anomaly-Detection'
 tech:
   - Django
