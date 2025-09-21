@@ -4,7 +4,7 @@ title: 'Research Assistant'
 side_name: PICT
 company: 'Pune Institute of Computer Technology'
 location: 'Pune, India'
-range: 'August 2023 - Present'
+range: 'August 2023 - December 2023'
 url: 'https://pict.edu/'
 ---
 

@@ -150,10 +150,13 @@ module.exports = {
       },
     },
     {
-      resolve: `gatsby-plugin-google-analytics`,
+      resolve: `gatsby-plugin-google-gtag`,
       options: {
-        trackingId: 'UA-45666519-2',
-      },
-    },
+        trackingIds: ["G-2GP8XKVC5J"],   // your GA4 Measurement ID
+        gtagConfig: { anonymize_ip: true },
+        pluginConfig: { head: true, respectDNT: true }
+      }
+    }
+    ,
   ],
 };
