@@ -143,7 +143,7 @@ const About = () => {
             </p>
 
             <p>
-              Today, I have graduated from the {' '}
+              I have graduated from the {' '}
               <a href="https://grainger.illinois.edu/"> University of Illinois Urbana-Champaign </a>{' '}
               and am looking for my next challenge.
             </p>
