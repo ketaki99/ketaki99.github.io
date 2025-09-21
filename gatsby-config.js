@@ -6,8 +6,8 @@ module.exports = {
     description:
       'Ketaki Gokhale is a software engineer with interests in Machine Learning and Software Development in Python,',
     siteUrl: 'https://ketaki99.github.io', // No trailing slash allowed!
-    image: '/og.png', // Path to your image you placed in the 'static' folder
-    twitterUsername: '@ketakig99',
+    image: '/seo_image.png', // Path to your image you placed in the 'static' folder
+    twitterUsername: '@ketakigokhale99',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
