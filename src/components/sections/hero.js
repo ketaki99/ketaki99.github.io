@@ -65,7 +65,7 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I am a software engineer, with 2 years of industry experience and an incoming student at the{' '}
+        I am a software engineer, with 2.5 years of industry experience and a Masters degree from the{' '}
         <a href="https://grainger.illinois.edu/" target="_blank" rel="noreferrer">
           University of Illinois Urbana-Champaign
         </a>
