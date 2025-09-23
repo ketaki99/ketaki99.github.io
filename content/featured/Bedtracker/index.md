@@ -1,7 +1,7 @@
 ---
 date: '2'
 title: 'Hospital Bed Availability Portal'
-cover: './bedtracker.png'
+cover: './bedtracker_ui.png'
 github: 'https://github.com/ketaki99/BedTracker'
 # external: ''
 tech:
